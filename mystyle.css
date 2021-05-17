@@ -1,0 +1,150 @@
+
+#window0 {
+    background-image:  linear-gradient(#e66465, #9198e5);
+
+}
+#lab{
+color:#D98F07;
+border-bottom:1px solid #D98F07;
+font-size:15px;
+}
+#window1 {
+    background-image:  linear-gradient(#e66465, #778899);
+
+}
+#window2{
+    background-color: black;
+
+}
+#window5{
+background-color:black;
+color:red;
+font-size:20px;
+}
+#window3{
+    background-color: #1C2226;
+color:white;
+}
+#label{
+font-size:20px;
+
+}
+
+#labe4{
+color:#D98F07;
+border-bottom:1px #F2CB57 solid;
+}
+#entry{
+background-color:#62727b;
+color:#ffffff;
+font-size:15px;
+
+}
+#labe2{
+font-size:20px;
+color:#cfd8dc;
+}
+#labe33{
+font-size:20px;
+color:#cfd8dc;
+background-color:transparent;
+border:none;
+
+
+}
+#label3{
+font-size:20px;
+color:#8D9CA6;
+border-bottom:1px #F2CB57 solid;
+}
+
+#labe00{
+background-image:linear-gradient(#484848, black) ;
+color:white;
+border-radius:5px;
+margin:0;
+font-size:1em;
+}
+#button4{
+background-color:transparent;
+color:#e0e0e0;
+font-size:15px;
+
+}
+#button4:hover{
+background-color:#212121;
+}
+
+#grid{
+
+margin:0 20em;
+}
+#grid_1{
+
+}
+#grid_2{
+font-size:2em;
+background:transparent;
+border:none;
+}
+#myButton_1{
+margin-right:2em;
+    color: white;
+    font-family: DejaVu Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+
+#myButton_2{
+margin-right:2em;
+    color: white;
+    font-family: DejaVu Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 15px;
+}
+#myButton_3{
+margin-right:2em;
+    color: white;
+    font-family: DejaVu Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 15px;
+}
+button{
+background:transparent;
+
+
+}
+button:active{
+color:black;
+background:green;
+transition: all 0.8s ;
+}
+#myButton_1:hover,
+#myButton_2:hover,
+#myButton_3:hover,
+#myButton_4:hover{
+   background: linear-gradient(0.25turn, #e66465, #EE82EE, #9198e5);
+color:#E0FFFF;
+}
+#myButton_1:active,
+#myButton_2:active,
+#myButton_3:active,
+#myButton_4:active{
+   background: linear-gradient(0.005turn, #EE82EE, #EE82EE, #EE82EE);
+   box-shadow: 0px 0px 10px #9198e5 ;
+   color:white;
+}
+
+
+#table1{
+color:red;
+margin-left:0;
+padding-left:0;
+}
